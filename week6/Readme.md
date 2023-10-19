@@ -1,1 +1,3 @@
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+You can check the visual effects here:
+https://codepen.io/Qingqing27/pen/RwvbWyR
+![Image text](week6/effects.png)
